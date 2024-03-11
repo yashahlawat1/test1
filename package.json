@@ -1,0 +1,19 @@
+{
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "cypress": "^13.6.6"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
